@@ -4,6 +4,26 @@ SplitMate is a modern, full-stack split-wise replacement designed with a premium
 
 **Production URL**: [https://cerulean-sprinkles-e14a1a.netlify.app](https://cerulean-sprinkles-e14a1a.netlify.app)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="public/screenshot_login.png" width="80%" alt="Login Page" />
+  <br />
+  <em>Login Page &mdash; Beautiful glassmorphic credentials portal.</em>
+</p>
+
+<p align="center">
+  <img src="public/screenshot_dashboard.png" width="80%" alt="Dashboard Page" />
+  <br />
+  <em>Dashboard &mdash; Owed/owe summaries, recent activities, and groups list.</em>
+</p>
+
+<p align="center">
+  <img src="public/screenshot_group.png" width="80%" alt="Group Page" />
+  <br />
+  <em>Group Details &mdash; Balance sheet list, transaction logs, and inline friend additions by unique Split ID.</em>
+</p>
+
 ---
 
 ## 🌟 Key Features
